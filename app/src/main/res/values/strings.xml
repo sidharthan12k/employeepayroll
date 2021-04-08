@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">employeepayroll</string>
+    <string name="user_id">User ID</string>
+    <string name="password">password</string>
+    <string name="signin">SignIn</string>
+    <string name="welcome_to_mycompany">Welcome to mycompany</string>
+    <string name="button">Button</string>
+    <string name="add_user">add user</string>
+    <string name="view_userdetails">view userdetails</string>
+    <string name="paydetails">Paydetails</string>
+
 </resources>

@@ -9,6 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Employeepayroll">
+        <activity android:name=".paydetails"></activity>
+        <activity android:name=".adminpanel" />
+        <activity android:name=".userinfo" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
